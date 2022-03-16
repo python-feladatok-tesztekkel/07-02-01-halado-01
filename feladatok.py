@@ -3,7 +3,7 @@
 # 1. feladat
 # Készítsen függvényt ev_hanyadik_napja néven
 # A függvény bemeneti paramétere az év, hónap és nap (dátum)
-# A függvény megadja, hogy a hét hanyadik napjáról van szó
+# A függvény megadja, hogy az év hanyadik napjáról van szó
 
 # 2. feladat
 # Készítsen függvényt buvos_negyzet_e néven
